@@ -14,6 +14,7 @@ namespace MyApp
     {
         public Form1()
         {
+            if (false) return;
             InitializeComponent();
         }
 
