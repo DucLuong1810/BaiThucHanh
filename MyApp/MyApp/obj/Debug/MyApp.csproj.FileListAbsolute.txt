@@ -1,1 +1,9 @@
 C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\admin\Desktop\BaiThucHanh\MyApp\MyApp\obj\Debug\MyApp.pdb

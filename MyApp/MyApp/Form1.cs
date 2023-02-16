@@ -14,14 +14,12 @@ namespace MyApp
     {
         public Form1()
         {
-            if (false) return;
+
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (false) return;
 
-        }
     }
 }
